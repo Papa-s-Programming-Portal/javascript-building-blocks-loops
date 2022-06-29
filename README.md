@@ -6,7 +6,7 @@ Read through the lesson at https://developer.mozilla.org/en-US/docs/Learn/JavaSc
 
 ### Task 1
 
-The code at https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#active_learning_launch_countdown should help you to see how to add text to an `li` element and also how to append `li' elements to a `ul` element.
+The code at https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#active_learning_launch_countdown should help you to see how to add text to an `li` element and also how to append `li` elements to a `ul` element.
 
 ### Task 2
 
